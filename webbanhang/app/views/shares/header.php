@@ -22,15 +22,14 @@ navigation">
 <div class="collapse navbar-collapse" id="navbarNav">
 <ul class="navbar-nav">
 <li class="nav-item">
-<a class="nav-link" href="/project1/Product/">Danh sách sản
-
-phẩm</a>
+<a class="nav-link" href="/webbanhang/Product/">Danh sách sản phẩm</a>
 
 </li>
 <li class="nav-item">
-<a class="nav-link" href="/project1/Product/add">Thêm sản
+<a class="nav-link" href="/webbanhang/Product/add">Thêm sản phẩm</a>
 
-phẩm</a>
+</li>
+<a class="nav-link" href="/webbanhang/Product/cart">Giỏ hàng</a>
 
 </li>
 </ul>

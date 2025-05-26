@@ -51,8 +51,7 @@ required>
 ?>">
 <?php if ($product->image): ?>
 
-<img src="/<?php echo $product->image; ?>" alt="Product Image" style="max-
-width: 100px;">
+<img src="/<?php echo $product->image; ?>" alt="Product Image" style="max-width: 100px;">
 
 <?php endif; ?>
 </div>
